@@ -1,0 +1,21 @@
+data/
+models/checkpoints/
+*.pth
+*.mat
+__pycache__/
+.env
+# AI Models and Weights
+*.pth
+*.onnx
+models/checkpoints/
+
+# Datasets
+data/
+*.mat
+*.zip
+
+# Python Environment
+venv/
+__pycache__/
+.idea/
+.env
