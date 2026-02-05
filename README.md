@@ -3,7 +3,7 @@
 A state-of-the-art Assistive Spatial AI system that integrates **Vision-Language Models (LLaVA v1.5)** with **Metric Depth Transformers (Depth Anything V2)** to provide real-world spatial awareness.
 
 ## 🚀 The Vision
-Standard VLMs can describe "what" is in a scene but are "space-blind"—they cannot accurately estimate distance. This project bridges that gap for assistive navigation (e.g., helping a user navigate a supermarket) by providing real-time metric distance and orientation of objects.
+Standard VLMs can describe "what" is in a scene. But are "space-blind" becayse they cannot accurately estimate distance. This project bridges that gap for assistive navigation (e.g., helping a user navigate a supermarket) by providing real-time metric distance and orientation of objects.
 
 ## 🛠️ Tech Stack & Methodology
 - **Brain (Semantic):** LLaVA v1.5 (7B) via 4-bit Quantization (GPU 0)
