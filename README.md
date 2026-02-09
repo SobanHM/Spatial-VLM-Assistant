@@ -1,4 +1,4 @@
-# Spatial-VLM-Assistant: Metric Depth-Aware Visual Reasoning
+# Spatial-VLM-Assistant: Metric Depth-Aware Visual Reasoning [Work in Progress]
 
 A state-of-the-art Assistive Spatial AI system that integrates **Vision-Language Models (LLaVA v1.5)** with **Metric Depth Transformers (Depth Anything V2)** to provide real-world spatial awareness.
 
